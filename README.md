@@ -1,5 +1,7 @@
 
-General advice
+Some advice I pass along to other software engineers sometimes.
+
+## General advice
 * Meet people! See what you can learn from what they're doing, and maybe you can share what you're learning too. Also, learn about where they're working. You can ask them if they know of any job openings.
 * Learning programming/software engineering skills
     * [FreeCodeCamp](https://www.freecodecamp.org/) - lots of good in-depth tutorials in many different areas (full stack, AI/ML, data science, even data structures/algorithms)
@@ -11,7 +13,7 @@ General advice
       * This also helps you solidify what you're learning. If you can explain it, it means you've learned that topic well
       * [Dev.to](https://dev.to) is one example of an online community where people write blogs about their learnings
 
-Interviewing
+## Interviewing
 * Polish up resume
 * Always ask clarifying questions (no assumptions, make it clear to yourself and interviewer what you're trying)
 * Mock interviews
@@ -24,3 +26,17 @@ Interviewing
    * Interview preparation newsletters - 2 that I recommend for system design and FAANG interview questions
        * [ByteByteGo](https://blog.bytebytego.com/)
        * [Quastor](https://www.quastor.org/)
+
+## Books
+
+A lot of the information in books can be found for free on the internet, but books provide a nice packaging of the ideas. A good book's ideas will flow logically, and the structure makes it easy to consume and process these ideas.
+
+### "Power skills" books
+
+Call it soft skills if you want, but these are the skills that actually help you go places as you climb the ladder.
+
+...
+
+### Technical books
+
+...
